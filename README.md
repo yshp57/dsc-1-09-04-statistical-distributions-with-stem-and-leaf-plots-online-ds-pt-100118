@@ -1,16 +1,18 @@
 
-# Stem and Leaf Plots 
+# Statistical Distributions with Stem and Leaf Plots 
 
-
+## Introduction
 
 This lesson is designed to give you an introduction to stem-and-leaf plots as a graphical way to represent a given data set. We shall look at the steps required to develop a stem and leaf plot and visualize it using simple plotting skills in matplotlib.
 
 ![](https://ecdn.teacherspayteachers.com/thumbitem/Stem-and-Leaf-Graph-Poster-2453041-1533650860/original-2453041-1.jpg)
 
 ## Objectives
-* Visually observe and study the characteristics of a given distribution of data.
-* Describe stem and leaf plots as a very first step into studying data distributions. 
-* Compare the use cases for histograms vs. stem and leaf plots.
+
+You will be able to:
+* Visually observe and study the characteristics of a given distribution of data
+* Describe stem and leaf plots as a very first step into studying data distributions
+* Compare the use cases for histograms vs. stem and leaf plots
 
 ## Introduction
 
@@ -25,7 +27,7 @@ We can make a frequency distribution table showing how many tens, twenties, thir
 
 ![](hist1.png)
 
-### Creating Stem and Leaf Plots
+## Creating Stem and Leaf Plots
 The downside of frequency distribution tables and histograms is that, while the frequency of each class is easy to see, the original data points have been lost. You can tell, for instance, that there must have been five listed values that were in the twenties, but there is no way to tell from the histogram what exactly those values might have been.
 
 On the other hand, you could make a stem-and-leaf plot for the same data as shown below:
@@ -39,7 +41,7 @@ As you can see, unlike the histogram,  the original values can still be determin
 
 Also, note that the horizontal leaves in the stem-and-leaf plot correspond to the vertical bars in the histogram, and the leaves have lengths (in terms of numbers of entries) that equal the numbers in the "Frequency" column of the frequency table.
 
-### Visualize Stem and Leaf plot
+## Visualizing Stem and Leaf plots
 
 Stem and leaf plots like above can be plotted and visualized in order to get a deeper insight into the dataset. A stem and leaf plot for the above simple example can be visualized as below:
 
