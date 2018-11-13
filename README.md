@@ -47,7 +47,7 @@ Stem and leaf plots like above can be plotted and visualized in order to get a d
 
 ![](slplot2.png)
 
-Comparing this to the histogram we had before, now we can clearly see not only how many values are in a class, but also an insight into what those values are. Do leep in minmd that due to a complete overlap, repeating values are shown as a single dot (two 23s and two 26s). 
+Comparing this to the histogram we had before, now we can clearly see not only how many values are in a class, but also an insight into what those values are. Do keep in mind that due to a complete overlap, repeating values are shown as a single dot (two 23s and two 26s). 
 
 That's all there is to a stem-and-leaf plot.We just listed out how many entries we have in certain classes of numbers, and what those entries are. In the following lab, we shall move ahead and plot a stem and leaf graph (like the one above) , using a slightly more complex dataset. 
 
